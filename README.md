@@ -25,5 +25,5 @@ pip install -r requirements.txt
 `f"user_id={new_pseudouser}*&password=*&login=1&submit=Submit"` and `payload = f"user_id={user})({obj}={data+char}*&password=*&login=1&submit=Submit"` to your POST request.
 2. Run the following command
 ```bash
-python3 LDAPi.py --url http://<your endpoint>
+python3 ldapi.py --url http://<your endpoint>
 ```
